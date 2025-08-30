@@ -1,7 +1,7 @@
 # Deloitte Data Analytics Job Simulation  
 
 ## 📌 Project Overview  
-This repository showcases my completion of the **Deloitte Data Analytics & Forensic Technology Job Simulation** offered through [Forage](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy).  
+This repository showcases my completion of the **Deloitte Data Analytics & Forensic Technology Job Simulation** offered through Forage.
 
 During the simulation, I gained hands-on experience in data-driven decision-making by working on tasks related to **data analysis** and **forensic technology**.  
 
@@ -22,5 +22,4 @@ During the simulation, I gained hands-on experience in data-driven decision-maki
 
 ## 🔗 Simulation Link  
 You can explore the original simulation details here:  
-👉 [Deloitte Data Analytics Job Simulation on Forage](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy)  
-
+👉 [Deloitte Data Analytics Job Simulation on Forage] 
